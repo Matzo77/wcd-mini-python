@@ -1,0 +1,12 @@
+# Virtual environment
+sandbox/
+.env/
+*.env
+
+# Environment-specific files
+.env
+.env.*
+
+# Logs
+*.log
+log/

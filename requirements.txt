@@ -1,0 +1,5 @@
+requests
+pandas
+toml
+python-dotenv
+boto3
